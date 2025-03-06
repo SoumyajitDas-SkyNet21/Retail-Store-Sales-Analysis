@@ -47,6 +47,11 @@ The analysis resulted in several significant insights, which include:
 ## Google Colab Link
 
 For an interactive version of the analysis, you can access the Google Colab notebook [here](https://colab.research.google.com/drive/1vAIzYd_GpT5BwEriKYN08tuleCsk43VG?authuser=2#scrollTo=1fd07ce7-f2d7-4259-8522-7fe997e429b4).
+## ## Dashboard Snapshot
+
+Below is a snapshot of the sales and customer insights dashboard created in Excel:
+
+![Dashboard Snapshot](assets/images/dashboard_screenshot.png)
 
 ## Getting Started
 
