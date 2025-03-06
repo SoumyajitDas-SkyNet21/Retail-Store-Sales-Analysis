@@ -22,5 +22,15 @@ The analysis resulted in several significant insights, which include:
 - **Sales Timing**: Tuesday is the peak sales day, suggesting potential opportunities for targeted promotions or marketing strategies.
 - **Product Performance**: The Set category is the top-selling product, significantly outperforming other categories in total sales.
 
-## Project Structure
+## Google Colab Link
 
+For an interactive version of the analysis, you can access the Google Colab notebook [here](https://colab.research.google.com/drive/1vAIzYd_GpT5BwEriKYN08tuleCsk43VG?authuser=2#scrollTo=1fd07ce7-f2d7-4259-8522-7fe997e429b4).
+
+## Getting Started
+
+### Prerequisites
+
+You need Python 3.x and pip to install the required dependencies. You can install the dependencies using:
+
+```bash
+pip install -r requirements.txt
