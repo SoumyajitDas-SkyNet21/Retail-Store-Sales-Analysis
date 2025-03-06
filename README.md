@@ -51,7 +51,7 @@ For an interactive version of the analysis, you can access the Google Colab note
 
 Below is a snapshot of the sales and customer insights dashboard created in Excel:
 
-![Dashboard Snapshot](Sales Dashboard.png)
+!Sales Dashboard.png
 
 ## Getting Started
 
